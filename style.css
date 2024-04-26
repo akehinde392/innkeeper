@@ -1,0 +1,92 @@
+body {
+  margin: 0;
+  background-color: #f5efe6;
+  font-family: Montserrat;
+}
+
+header {
+  display: flex;
+  background-color: #f6f5f2;
+  justify-content: space-around;
+  box-sizing: border-box;
+  margin: 0 5px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.image-container {
+  float: left;
+  display: inline;
+  margin-top: 0px;
+}
+
+.logo {
+  display: inline;
+  color: orangered;
+}
+
+.first-nav a {
+  text-decoration: none;
+  color: black;
+  margin: 0 20px;
+  font-weight: 450;
+}
+
+.second-nav a {
+  text-decoration: none;
+  color: black;
+  margin: 0 20px;
+  font-weight: 450;
+}
+
+button {
+  margin-right: 5px;
+  border-radius: 15px;
+  padding: 8px;
+}
+
+.next-section {
+  display: flex;
+  background-color: #f6f5f2;
+  justify-content: space-between;
+  margin: 30px 15px;
+  border-radius: 10px;
+}
+
+.btn {
+  background-color: orangered;
+  color: white;
+  margin: 10px;
+  width: 100px;
+}
+
+.image-section {
+  display: flex;
+  justify-content: space-around;
+  margin: 0;
+}
+
+.text {
+  margin-right: 0px;
+  color: white;
+  background-color: orangered;
+  padding-left: 150px;
+  height: 400px;
+  width: 1200px;
+  margin-right: 0;
+}
+
+.text2 {
+  padding-right: 50px;
+  margin-top: 50px;
+  padding-right: 100px;
+}
+
+.ship2 {
+  width: 800px;
+  height: 400px;
+}
+
+.ship {
+  margin-left: 0;
+}
